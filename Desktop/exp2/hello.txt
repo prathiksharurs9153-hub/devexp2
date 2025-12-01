@@ -1,2 +1,6 @@
 hello github
+ HEAD
 Master branch edit
+This is a feature branch edit
+Feature branch conflicting edit
+ feature-branch
